@@ -51,12 +51,12 @@ global.owner = ['+212771412537']
 global.ownertag = '+212771412537' //your tag number
 global.botname = 'mehdi - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "mehdi" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+212771412537'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
